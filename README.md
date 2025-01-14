@@ -2,7 +2,7 @@
 ### Due - Monday, January 20, 11:59pm
 
 Assignment Link:
-[]()
+[https://classroom.github.com/a/TrUpdC_F](https://classroom.github.com/a/TrUpdC_F)
 
 In this assignment, you will practice with programs that using multiple classes
 as well as conditionals and iteration. You will also need to use exceptions and
